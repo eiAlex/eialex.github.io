@@ -1,0 +1,67 @@
+body{
+  	background-color: #f5f5f5;
+  	color: #212121;
+  	font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+h3{
+  padding-bottom: 20px;
+  color: #2b98d4;
+  font-weight: 500;
+}
+h2,h4{
+  padding: 10px 10px 10px 0px;
+}
+.bg{
+  background: url("https://s9.postimg.org/fksos9i65/cover_2.jpg") no-repeat center center fixed;
+  background-color: transparent;
+}
+.transparent{
+  background: transparent;
+}
+.header{
+  	color: #fff;
+  	background-color: #2b98d4;
+  	padding: 40px 20px 40px 20px;
+}
+/*-- change navbar dropdown color --*/
+ .navbar-custom1 .navbar-nav >li>a,.navbar-custom1 .navbar-nav .open .dropdown-menu {
+    color:#ffffff;
+  	font-size: 18px;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #fff;
+    color: #2b98d4;
+}
+.profile-image {
+    border-color: #2b98d4;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+}
+.title{
+  font-weight: 900;
+}
+.subtitle{
+  font-weight: 500;
+}
+.name{
+  color: #2b98d4;
+  font-weight: 900;
+}
+
+#header{
+	color: #fff;
+	font-size: 25px;
+}
+@media (max-width: 480px) {
+  #contactbutton{
+    padding: 40px;
+    text-align: center;
+  }
+
+    body {
+      padding:0px;
+      text-align: center;
+    }
+}
