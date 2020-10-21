@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T03:10:34.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="L1ReBA3XrfwgQDreL8Qj" version="13.8.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-21T13:02:16.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="EFOAiS0JZ2KCP11y1SDi" version="13.8.1" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2272" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,7 +140,7 @@
         <mxCell id="-DS7HXD9sX-EJSOfmCuz-268" value="Check point do projeto" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-DS7HXD9sX-EJSOfmCuz-149">
           <mxGeometry x="22.777218045112818" y="70.00090909090906" width="124.51127819548871" height="48.72727272727272" as="geometry" />
         </mxCell>
-        <mxCell id="-DS7HXD9sX-EJSOfmCuz-272" value="Catalogo de dados" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="-DS7HXD9sX-EJSOfmCuz-149">
+        <mxCell id="-DS7HXD9sX-EJSOfmCuz-272" value="Entrega do produto Final" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="-DS7HXD9sX-EJSOfmCuz-149">
           <mxGeometry x="182.7789473684211" y="398.72818181818184" width="124.51127819548871" height="60.90909090909091" as="geometry" />
         </mxCell>
         <mxCell id="-DS7HXD9sX-EJSOfmCuz-267" value="&lt;span&gt;Monitorar metricas&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-DS7HXD9sX-EJSOfmCuz-149">
